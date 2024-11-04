@@ -1,0 +1,6 @@
+const accountID = 24585
+let accountemail = "vanshika@gamil.com"
+var accountpassward = 45129
+accountcity = "muzaffnagar"
+let accountstate = "jaipur"
+console.table([accountID,accountemail,accountpassward ,accountstate,accountcity])
